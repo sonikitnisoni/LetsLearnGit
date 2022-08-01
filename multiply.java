@@ -3,5 +3,6 @@ public class multiply {
         int a=5;
         int b=6;
         System.out.println("The multiplication is"+a*b);
+        System.out.println("thanks");
     }
 }
